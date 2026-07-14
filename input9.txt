@@ -1,0 +1,5 @@
+int check;
+check = 20;
+if (check > 10 {
+printf(check);
+}

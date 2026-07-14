@@ -1,0 +1,8 @@
+int a;
+int b;
+a = 5;
+b = 10;
+if (a < b)
+printf(a);
+else
+printf(b);

@@ -1,0 +1,4 @@
+int valid;
+valid = 50;
+;
+printf(valid);
