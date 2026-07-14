@@ -1,5 +1,0 @@
-int status;
-status = (4 + 5) * (10 - 2) % 3;
-if (status == 0) {
-printf(1);
-}

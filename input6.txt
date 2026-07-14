@@ -1,5 +1,0 @@
-int alpha;
-int beta;
-alpha = 45;
-beta = alpha - 5;
-return beta;

@@ -1,9 +1,0 @@
-int initial;
-initial = 100;
-{
-int scopeVar;
-scopeVar = initial * 2;
-{
-printf(scopeVar % 3);
-}
-}
