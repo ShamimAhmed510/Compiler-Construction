@@ -1,0 +1,34 @@
+Line 1: KEYWORD    -> int
+Line 1: IDENTIFIER -> age
+Line 1: ASSIGNMENT -> =
+Line 1: INT CONST  -> 25
+Line 1: SEMICOLON  -> ;
+Line 2: KEYWORD    -> float
+Line 2: IDENTIFIER -> salary
+Line 2: ASSIGNMENT -> =
+Line 2: FLOAT CONST-> 15000.50
+Line 2: SEMICOLON  -> ;
+Line 3: KEYWORD    -> char
+Line 3: IDENTIFIER -> grade
+Line 3: ASSIGNMENT -> =
+Line 3: CHAR CONST -> 'A'
+Line 3: SEMICOLON  -> ;
+Line 4: KEYWORD    -> int
+Line 4: IDENTIFIER -> x
+Line 4: ASSIGNMENT -> =
+Line 4: IDENTIFIER -> y
+Line 4: OPERATOR   -> +
+Line 4: INT CONST  -> 10
+Line 4: SEMICOLON  -> ;
+Line 5: KEYWORD    -> double
+Line 5: IDENTIFIER -> quantity
+Line 5: ASSIGNMENT -> =
+Line 5: FLOAT CONST-> 5.5
+Line 5: SEMICOLON  -> ;
+Line 5: KEYWORD    -> int
+Line 5: IDENTIFIER -> price
+Line 5: ASSIGNMENT -> =
+Line 5: IDENTIFIER -> quantity
+Line 5: OPERATOR   -> *
+Line 5: INT CONST  -> 100
+Line 5: SEMICOLON  -> ;
